@@ -16,18 +16,18 @@ gradient centralization. The analytical analysis using the toy example shows tha
 the proposed method leads to a shorter and smoother optimization trajectory.
 
 # How to use
-To run on cifar-10, cifar-100 datasets 
-run cifar_notebook.ipynb changing the file paths accordingly
-To run on Tiny-imagenet dataset
-run tiny_imagenet_notebook.ipynb changing the file paths accordingly
+To run on cifar-10, cifar-100 datasets </br> 
+run cifar_notebook.ipynb changing the file paths accordingly </br>
+To run on Tiny-imagenet dataset </br>
+run tiny_imagenet_notebook.ipynb changing the file paths accordingly </br>
 
 # Citation
 Sumanth Sadu, Shiv Ram Dubey, and S. R. Sreeja, "Moment Centralization based Gradient Descent Optimizers for Convolutional Neural Networks", International Conference on Computer Vision and Machine Intelligence, 2022.
 
 # Datasets
-Cifar-10, Cifar-100 are downloaded from torchvision.
-Tiny-imagenet dataset can be downloaded from http://cs231n.stanford.edu/tiny-imagenet-200.zip
-For Tiny-imagenet dataset formating and resizing of data is required which can be done using val_format.py and resize.py files.
+Cifar-10, Cifar-100 are downloaded from torchvision. </br>
+Tiny-imagenet dataset can be downloaded from http://cs231n.stanford.edu/tiny-imagenet-200.zip </br>
+For Tiny-imagenet dataset formating and resizing of data is required which can be done using val_format.py and resize.py files. 
 
 # References
 Code used from [pytorch-cifar-models](https://github.com/junyuseu/pytorch-cifar-models)
