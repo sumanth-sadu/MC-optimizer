@@ -17,9 +17,9 @@ the proposed method leads to a shorter and smoother optimization trajectory.
 
 # How to use
 To run on cifar-10, cifar-100 datasets </br> 
-run cifar_notebook.ipynb changing the file paths accordingly </br>
+run **cifar_notebook.ipynb** changing the file paths accordingly </br>
 To run on Tiny-imagenet dataset </br>
-run tiny_imagenet_notebook.ipynb changing the file paths accordingly </br>
+run **tiny_imagenet_notebook.ipynb** changing the file paths accordingly </br>
 
 # Citation
 Sumanth Sadu, Shiv Ram Dubey, and S. R. Sreeja, "Moment Centralization based Gradient Descent Optimizers for Convolutional Neural Networks", International Conference on Computer Vision and Machine Intelligence, 2022.
