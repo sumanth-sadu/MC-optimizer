@@ -15,6 +15,12 @@ results of the proposed moment centralization are also better than the existing
 gradient centralization. The analytical analysis using the toy example shows that
 the proposed method leads to a shorter and smoother optimization trajectory.
 
+# How to use
+To run on cifar-10, cifar-100 datasets 
+run cifar_notebook.ipynb changing the file paths accordingly
+To run on Tiny-imagenet dataset
+run tiny_imagenet_notebook.ipynb changing the file paths accordingly
+
 # Citation
 Sumanth Sadu, Shiv Ram Dubey, and S. R. Sreeja, "Moment Centralization based Gradient Descent Optimizers for Convolutional Neural Networks", International Conference on Computer Vision and Machine Intelligence, 2022.
 
