@@ -14,3 +14,14 @@ image classification. The performance of the existing optimizers is generally im
 results of the proposed moment centralization are also better than the existing
 gradient centralization. The analytical analysis using the toy example shows that
 the proposed method leads to a shorter and smoother optimization trajectory.
+
+# Citation
+Sumanth Sadu, Shiv Ram Dubey, and S. R. Sreeja, "Moment Centralization based Gradient Descent Optimizers for Convolutional Neural Networks", International Conference on Computer Vision and Machine Intelligence, 2022.
+
+# Datasets
+Cifar-10, Cifar-100 are downloaded from torchvision.
+Tiny-imagenet dataset can be downloaded from http://cs231n.stanford.edu/tiny-imagenet-200.zip
+For Tiny-imagenet dataset formating and resizing of data is required which can be done using val_format.py and resize.py files.
+
+# References
+Code used from [pytorch-cifar-models](https://github.com/junyuseu/pytorch-cifar-models)
