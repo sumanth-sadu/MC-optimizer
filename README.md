@@ -13,7 +13,7 @@ Adabelief on benchmark CIFAR10, CIFAR100, and TinyImageNet datasets for
 image classification. The performance of the existing optimizers is generally improved when integrated with the proposed moment centralization. Further, The
 results of the proposed moment centralization are also better than the existing
 gradient centralization. The analytical analysis using the toy example shows that
-the proposed method leads to a shorter and smoother optimization trajectory. </b>
+the proposed method leads to a shorter and smoother optimization trajectory. </n>
 It is also recommended to refer [arXiv version](https://arxiv.org/abs/2207.09066) 
 
 # How to use
