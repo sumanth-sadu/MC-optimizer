@@ -14,6 +14,7 @@ image classification. The performance of the existing optimizers is generally im
 results of the proposed moment centralization are also better than the existing
 gradient centralization. The analytical analysis using the toy example shows that
 the proposed method leads to a shorter and smoother optimization trajectory.
+It is also recommended to refer [arXiv version](https://arxiv.org/abs/2207.09066) 
 
 # How to use
 To run on cifar-10, cifar-100 datasets </br> 
